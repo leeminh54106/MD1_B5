@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.baylen{
+    padding: 10px 30px;
+    background-color: rgba(7, 7, 7, 0.5);
+    position: absolute;
+    top: 75%;
+    right: 0;
+    color: #fff;
+
+}
+
+.img {
+    width: 100%;
+}
+
+.div1{
+    width: 300px;
+    /* height: 350px; */
+    position: relative;
+
+}
+.in{
+    display: block;
+}
+h1{
+    border-left: 4px solid orange;
+}
